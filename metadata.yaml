@@ -1,0 +1,32 @@
+_repo: In-a-Little-Town_29561
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29561-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
+description: ''
+gutenberg_issued: '2009-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Middle West -- Fiction'
+tableOfContents: Don't you care! -- Pop -- Baby talk -- The mouth of the gift horse
+  -- The old folks at home -- And this is marriage -- The man that might have been
+  -- The happiest man in Ioway -- Prayers -- Pain -- The beauty and the fool -- The
+  ghostly counselors -- Daughters of Shiloh -- "A" as in "Father".
+title: In a Little Town
+url: http://www.gutenberg.org/ebooks/29561
